@@ -1,7 +1,6 @@
 <linker>
   <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
-    <type fullname="AddressablesProbe.MHP_SceneAssetsPreloader" preserve="all" />
-    <type fullname="AddressablesProbe.PrefabSpawner" preserve="all" />
+    <type fullname="PrefabSpawnerSample" preserve="all" />
   </assembly>
   <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
     <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
